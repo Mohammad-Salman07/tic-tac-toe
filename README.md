@@ -43,3 +43,6 @@ tic-tac-toe/
 🔗 Portfolio: [your-website.com](https://your-website.com)
 🐙 GitHub: [github.com/Mohammad-Salman07](https://github.com/Mohammad-Salman07)
 
+
+
+![Screenshot 2025-07-03 164828](https://github.com/user-attachments/assets/b2d00444-e5d1-4d62-902a-6e2a57c36029)
