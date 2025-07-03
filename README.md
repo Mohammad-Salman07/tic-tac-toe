@@ -16,7 +16,7 @@ Dark mode, responsive mobile UI, and sound effects.
 * ✨ Custom name input for friend mode
 
 ---
-## Screenshot of game
+## 📸 Screenshots of game
 ![Screenshot 2025-07-03 164828](https://github.com/user-attachments/assets/b2d00444-e5d1-4d62-902a-6e2a57c36029)
 
 ## 📂 Project Structure
